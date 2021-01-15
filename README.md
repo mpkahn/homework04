@@ -4,7 +4,7 @@
 Javascript Quiz is a simple 3-question quiz about extremely difficult javascript elements that only a true master would know.
 
 ## Installation
-Clone this repository and open html, js, and css files in code editor. View website at https://mpkahn.github.io/homework04/
+Clone this repository and open html (js inline) and css files in code editor. View website at https://mpkahn.github.io/homework04/. Images in assets folder.
 
 ## Usage
 Open https://mpkahn.github.io/homework04/ And the countdown clock will begin! You have 60 seconds to successfully answer the 3 questions before the quiz goes away and you must try again.
