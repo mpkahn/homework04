@@ -13,10 +13,10 @@ One question will be present at a time. Click one of the 3 available answers and
 
 Once you are confident in all your answers, hit "Submit" and you will see how many you got correct displayed at the bottom. Additionally, questions that you got right will be in green and questions you got wrong will be in red. Use the "previous" and "next" buttons to go back through the questions to see. 
 
-![Main quiz page](assets/images/quiz1.jpg)
-![Question incorrect](assets/images/quiz2.jpg)
-![Question Correct](assets/images/quiz3.jpg)
-![Time is up!](assets/images/fail.jpg)
+![Main quiz page](Assets/images/quiz1.jpg)
+![Question incorrect](Assets/images/quiz2.jpg)
+![Question Correct](Assets/images/quiz3.jpg)
+![Time is up!](Assets/images/fail.jpg)
 
 Credits
 Most credit goes to this tutorial website that helped me build out the major components of this and then try to figure out my own customization from there: https://www.sitepoint.com/simple-javascript-quiz/
