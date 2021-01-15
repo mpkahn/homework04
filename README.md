@@ -1,12 +1,12 @@
-Javascript Quiz
+## Javascript Quiz
 
-Description
+## Description
 Javascript Quiz is a simple 3-question quiz about extremely difficult javascript elements that only a true master would know.
 
-Installation
+## Installation
 Clone this repository and open html, js, and css files in code editor. View website at https://mpkahn.github.io/homework04/
 
-Usage
+## Usage
 Open https://mpkahn.github.io/homework04/ And the countdown clock will begin! You have 60 seconds to successfully answer the 3 questions before the quiz goes away and you must try again.
 
 One question will be present at a time. Click one of the 3 available answers and hit "next question" to view the next one. At any point before you submit, you can click "previous question" if you want to return back to the previous one. 
@@ -18,7 +18,7 @@ Once you are confident in all your answers, hit "Submit" and you will see how ma
 ![Question Correct](Assets/images/quiz3.jpg)
 ![Time is up!](Assets/images/fail.jpg)
 
-Credits
+## Credits
 Most credit goes to this tutorial website that helped me build out the major components of this and then try to figure out my own customization from there: https://www.sitepoint.com/simple-javascript-quiz/
 
 Additionally had to utilize JSX which we haven't learned in class, but was used in that tutorial, so I had to go back and learn some of what that is: https://reactjs.org/docs/introducing-jsx.html
@@ -26,7 +26,7 @@ Additionally had to utilize JSX which we haven't learned in class, but was used 
 W3schools helped with a lot  of various javascript and CSS elements MOST importantly, the timer: https://www.w3schools.com/js/js_timing.asp
 
 
-License
+## License
 MIT License
 
 Copyright (c) [year] [fullname]
