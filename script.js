@@ -89,7 +89,7 @@ const quiz = document.getElementById("quiz");
                 }
             });
 
-            scoreBoard.innerHTML = `${correctAnswers} out of ${question.length}`;
+            scoreBoard.innerHTML = `${correctAnswers} out of ${question.length} correct!`;
         };
 
         //function to display active slide
